@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280434776928",
+    "firebase_url": "https://letsmeetup-22424.firebaseio.com",
+    "project_id": "letsmeetup-22424",
+    "storage_bucket": "letsmeetup-22424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280434776928:android:36fde550dbb02250cedc05",
+        "android_client_info": {
+          "package_name": "com.abbey.letsmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280434776928-6bufr7v2p0vqatatlijk9j7n8db0p97e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzY7r5dHcylfNqCDkjlUWPA2BEBp30MxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280434776928-6bufr7v2p0vqatatlijk9j7n8db0p97e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
